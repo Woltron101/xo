@@ -32,8 +32,6 @@ div {
     text-align: center;
 }
 
-
-
 .row {
     height: 200px;
 }
@@ -43,9 +41,11 @@ div {
     border: solid gray 2px;
     width: 200px;
     height: 200px;
+    float: left;
 }
 
 .winner-message {
     font-size: 50px;
     font-weight: bold;
 }
+
